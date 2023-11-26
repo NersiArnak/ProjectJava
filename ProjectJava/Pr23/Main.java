@@ -2,10 +2,10 @@ package Pr23;
 public class Main {
     public static void main(String[] args) {
         // Создаем объекты блюд и напитков
-        Dish dish1 = new Dish("Паста", "Макароны с соусом", 250);
-        Dish dish2 = new Dish("Салат", "Свежий овощной салат", 150);
-        Drink drink1 = new Drink("Кола", "Газированный напиток", 80);
-        Drink drink2 = new Drink("Чай", "Черный чай", 50);
+        Dish dish1 = new Dish("Паста", "Макароны с соусом", 500);
+        Dish dish2 = new Dish("Салат", "Свежий овощной салат", 300);
+        Drink drink1 = new Drink("Кола", "Газированный напиток", 69);
+        Drink drink2 = new Drink("Чай", "Черный чай", 100);
 
         // Создаем заказы и добавляем позиции
         InternetOrder order1 = new InternetOrder();

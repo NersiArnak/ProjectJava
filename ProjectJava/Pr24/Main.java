@@ -5,11 +5,11 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) throws OrderAlreadyException {
         ArrayList<String> dish = new ArrayList<>();
-        dish.add("pizza: Peperoni: 590");
-        dish.add("cake: Sweet: 700");
+        dish.add("pizza: Peperoni: 390");
+        dish.add("cake: Sweet: 340");
         ArrayList<String> drink = new ArrayList<>();
-        drink.add("water: Fresh, Bubbles: 160");
-        drink.add("juice: Orange, Apple: 190");
+        drink.add("water: Fresh, Bubbles: 239");
+        drink.add("juice: Orange, Apple: 200");
         System.out.println("Menu: ");
         for (String s: dish)
             System.out.println(s);

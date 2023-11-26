@@ -1,36 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11e013e5-20d1-4cda-9cb3-5c8e1cea4431" name="Changes" comment="" />
+    <list default="true" id="11e013e5-20d1-4cda-9cb3-5c8e1cea4431" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/Project1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task1/TestDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task1/TestDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task2/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task2/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task2/TestBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task2/TestBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task3/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task3/TestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pr1-16/Pr1-1/src/task3/TestBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_15/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_15/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_15/NoteModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_15/NoteModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_15/NoteView.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_15/NoteView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_17/InnChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_17/InnChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_18/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_18/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_18/MyGenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_18/MyGenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_19/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/Lab_20/RPNCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/Lab_20/RPNCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_17/InnChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_17/InnChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_18/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_18/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_18/MyGenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_18/MyGenericClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_19/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_19/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_20/RPNCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectJava/out/production/ProjectJava/Lab_20/RPNCalculator.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Pr1-16/Pr1-1" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YQr7zrw41BjN1f54FNrVYPmxay" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/nersiarnak/ProjectJava",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nersiarnak/Documents/ProjectJava&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1700468483295</updated>
       <workItem from="1700468484209" duration="32000" />
+      <workItem from="1700478602722" duration="13000" />
+      <workItem from="1701019526947" duration="73000" />
+      <workItem from="1701019607131" duration="35000" />
     </task>
     <servers />
   </component>
